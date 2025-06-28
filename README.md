@@ -1,2 +1,2 @@
 # this is a Samle project of Maven
-# Great job
+# Great job as well
